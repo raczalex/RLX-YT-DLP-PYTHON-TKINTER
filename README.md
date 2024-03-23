@@ -35,7 +35,7 @@
 
 Preview (Main Light)                                     |                                     Preview (Main Dark)
 :-------------------------------------------------------:|:-------------------------------------------------------:
-![](https://i.ibb.co/fqkCd2p/rlx-yt-dlp-main-light.png)  |  ![](https://i.ibb.co/NYrkDFC/rlx-yt-dlp-main-dark.png)
+![](https://i.ibb.co/fqkCd2p/rlx-yt-dlp-main-light.png)  |  ![](https://i.ibb.co/G5nZGym/rlx-yt-dlp-main-dark.png)
 
 # Preview (Video Info)
 
