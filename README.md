@@ -62,9 +62,9 @@ Preview (Video Info Light)                                     |                
  - Same as yt-dlp.
  - [Full List](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
-# Discord Server
+# Discord Szerver
  - Join the discord server for more updates and to check the current process.
- - [Discord Server Invite](https://discord.gg/GpTjA7yWpG)
+ - [Discord Szerver Invite (HUN)](https://discord.gg/r96jeQgaFX)
 
 # Issues
  - If you found or have any issues feel free to report it, on my discord via opening a ticket, or here or in email.
