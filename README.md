@@ -66,9 +66,6 @@
  - Join the discord server for more updates and to check the current process.
  - [Discord Server Invite](https://discord.gg/GpTjA7yWpG)
 
-# Video
-[![YouTube](https://img.youtube.com/vi/KxGpga5ZKqI/0.jpg)](https://www.youtube.com/watch?v=KxGpga5ZKqI)
-
 # Issues
  - If you found or have any issues feel free to report it, on my discord via opening a ticket, or here or in email.
 
