@@ -37,12 +37,11 @@ Preview (Main Light)       |       Preview (Main Dark)
 :-------------------------:|:-------------------------:
 ![](https://i.ibb.co/fqkCd2p/rlx-yt-dlp-main-light.png)  |  ![](https://i.ibb.co/NYrkDFC/rlx-yt-dlp-main-dark.png)
 
+# Preview (Video Info)
 
-# Preview (Video Info Light) 
-![](https://i.ibb.co/chfDxv2/rlx-yt-dlp-video-info-light.png)
-
-# Preview (Video Info Dark)
-![](https://i.ibb.co/VWKsPVB/rlx-yt-dlp-video-info-dark.png)
+Preview (Video Info Light)                                     |                                     Preview (Video Info Dark)
+:-------------------------------------------------------------:|:-------------------------------------------------------------:
+![](https://i.ibb.co/chfDxv2/rlx-yt-dlp-video-info-light.png)  |  ![](https://i.ibb.co/VWKsPVB/rlx-yt-dlp-video-info-dark.png)
 
 # Installation
  - Make sure you have Python 3.11.8 or higher.<br/>
