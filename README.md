@@ -74,10 +74,6 @@ Preview (Video Info Light)                                     |                
  - Source contains MacTheme.py which is currently useless.
  - Download the tool from official sources!
 
-# Donate
- - [Patreon](patreon.com/zenox773)
- - BTC: bc1qqrc2g4zy65kwms2yrlysu9387jrwlrh479ctxc
-
 # Contact
  - [YouTube](https://www.youtube.com/channel/UC9SLDHrT6la3TLMl0FCbA_g)
  - [Instagram](https://www.instagram.com/raczalex99/)
