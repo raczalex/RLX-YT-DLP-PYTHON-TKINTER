@@ -1,8 +1,8 @@
 # RLX-YT-DLP-PYTHON-TKINTER
- A simple Multiplatform GUI tool which you can use to download videos almost from anywhere!
+ - A simple Multiplatform GUI tool which you can use to download videos almost from anywhere!
 
 # About
- This tool based on yt-dlp, ffmpeg, and ffprobe for downloading videos.
+ - This tool based on yt-dlp, ffmpeg, and ffprobe for downloading videos.
 
 # Features
  - The tool will download all the neccessary binaries for you on startup to the bin folder on all os.
