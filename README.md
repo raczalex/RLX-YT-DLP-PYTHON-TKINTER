@@ -70,8 +70,6 @@ Preview (Video Info Light)                                     |                
  - If you found or have any issues feel free to report it, on my discord via opening a ticket, or here or in email.
 
 # Note
- - If you like this tool please support the project to keep it updated, (it takes a lot of time and effort).
- - Source contains MacTheme.py which is currently useless.
  - Download the tool from official sources!
 
 # Contact
