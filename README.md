@@ -14,7 +14,7 @@
  - You can add the video url.
  - You can define the path (on startup the default will be your downloads folder).
  - You can copy / paste paths or you can use the Browse button.
- - You can select different download formats (BEST, MP4, MP3, WAV, FLAC).
+ - You can select different download formats (BEST, MP4, MP3, M4A, WAV, FLAC).
  - You can add optional filename see more at yt-dlp documentation.
  - You can add custom args.
  - You can select if you want to use sponsorblock (None, Remove, Mark).
