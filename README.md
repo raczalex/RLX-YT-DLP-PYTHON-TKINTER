@@ -32,16 +32,16 @@
  - On startup the tool detects if you use light / dark theme and that will be the startup default.
 
 # Preview (Main Light)
- - ![](https://i.ibb.co/fqkCd2p/rlx-yt-dlp-main-light.png)
+![](https://i.ibb.co/fqkCd2p/rlx-yt-dlp-main-light.png)
 
 # Preview (Main Dark)
- - ![](https://i.ibb.co/NYrkDFC/rlx-yt-dlp-main-dark.png)
+![](https://i.ibb.co/NYrkDFC/rlx-yt-dlp-main-dark.png)
 
 # Preview (Video Info Light) 
- - ![](https://i.ibb.co/chfDxv2/rlx-yt-dlp-video-info-light.png)
+![](https://i.ibb.co/chfDxv2/rlx-yt-dlp-video-info-light.png)
 
 # Preview (Video Info Dark)
- - ![](https://i.ibb.co/VWKsPVB/rlx-yt-dlp-video-info-dark.png)
+![](https://i.ibb.co/VWKsPVB/rlx-yt-dlp-video-info-dark.png)
 
 # Installation
  - Make sure you have Python 3.11.8 or higher.<br/>
