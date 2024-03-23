@@ -79,12 +79,10 @@ Preview (Video Info Light)                                     |                
  - BTC: bc1qqrc2g4zy65kwms2yrlysu9387jrwlrh479ctxc
 
 # Contact
- - DC: zenoxofficial
- - Email: zenoxofficial@proton.me
- - YouTube: @zenoxofficial
- - TikTok: @zenoxdev
- - Instagram: @zenoxofficialhere
- - Twitter: @zenoxdevhere
+ - [YouTube](https://www.youtube.com/channel/UC9SLDHrT6la3TLMl0FCbA_g)
+ - [Instagram](https://www.instagram.com/raczalex99/)
+ - [Twitter](https://twitter.com/raczalexvagyok)
+ - [Email](raczalex@proton.me)
 
 # Credits
  - @rdbende for Sun-Valley-ttk-theme.
